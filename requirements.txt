@@ -1,0 +1,2 @@
+# Minimal requirements for tests/tools
+pytest>=7.4
